@@ -9,5 +9,4 @@ public class When2meetApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(When2meetApplication.class, args);
 	}
-
 }
