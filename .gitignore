@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Custom ###
+# macOS
+.DS_Store
+# Properties
+application-prod.properties
