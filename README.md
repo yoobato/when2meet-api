@@ -1,5 +1,5 @@
 # when2meet-api
-When2Meet Clone (API)
+[When2Meet](https://www.when2meet.com/) Clone (API)
 
 ## Requirements
 - JDK 17 (Eclipse Temurin OpenJDK 17.0.6)
